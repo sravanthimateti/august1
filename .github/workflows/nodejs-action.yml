@@ -1,4 +1,4 @@
-name: node.js
+name: node.js install
 on: push
 jobs:
  build:
